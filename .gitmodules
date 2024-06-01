@@ -1,0 +1,3 @@
+[submodule "FeedinTime-Site"]
+	path = FeedinTime-Site
+	url = git@github.com:Drigax/FeedinTime-Site.git
